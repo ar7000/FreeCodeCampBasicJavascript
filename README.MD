@@ -26,6 +26,7 @@ Revisiting Basic JavaScript via FreeCodeCamp resources and copying passed code t
 - Reminded of use of switch statements as alternative to if/else:
     - Takes a value and tests it against cases until a match is found.
     - In the following example, switch statement takes val and if a match is found for any of the cases, reassigns a value to the variable 'answer'. If no match found, assigns the default value of "stuff".
+
     switch(val){
       case "a":
         answer = "apple"
@@ -40,4 +41,5 @@ Revisiting Basic JavaScript via FreeCodeCamp resources and copying passed code t
         answer = "stuff"
         break;
     }
+    
     - Can also take multiple cases and apply same result.
