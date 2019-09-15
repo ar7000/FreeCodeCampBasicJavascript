@@ -18,7 +18,7 @@ Revisiting Basic JavaScript via FreeCodeCamp resources and copying passed code t
         Adds a value or set of values to the end of an existing array.
     - someArray.pop();
         Removes a value from the end of an existing array.
-    - someArray.shift(value);
+    - someArray.shift();
         Removes a value from the beginning of an existing array.
-    - someArray.shift(value);
+    - someArray.unshift(value);
         Adds a value or set of values to the beginning of an existing array.
