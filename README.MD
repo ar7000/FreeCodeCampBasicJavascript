@@ -43,3 +43,7 @@ Revisiting Basic JavaScript via FreeCodeCamp resources and copying passed code t
     }
     
     - Can also take multiple cases and apply same result.
+
+  - Re-learned basic use of Javascript objects. Rememebered most elements but needed refreshing on the following:
+    - Can use dot or bracket notation when referring to JS objects.
+      - Bracket notation must be used if working with variables (also applies to function parameters).
