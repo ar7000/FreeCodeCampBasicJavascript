@@ -83,3 +83,7 @@ Revisiting Basic JavaScript via FreeCodeCamp resources and copying passed code t
       return "No such contact"
 
     }
+
+    - Reminded of use of ternary operator:
+      - Works like shorthand if/else statement. Takes condition, checks if true or false and takes return statements for either option. Example:
+      a === b ? true : false;
